@@ -3,7 +3,7 @@
 
 ## Préambule / Preamble
 
-MikroSDN Homelabber est un logiciel open source développé pour une utilisation communautaire non commerciale.  
+MikroSDN est un logiciel open source développé pour une utilisation communautaire non commerciale.  
 Cette licence définit les conditions d'utilisation, de modification et de distribution de MikroSDN Community Edition.
 
 MikroSDN is open source software developed for non-commercial community use.  

@@ -56,7 +56,7 @@ API available at http://localhost:8000/docs
 
 ### 📜 License
 
-MIT License
+Read LICENSE.md
 
 ---
 
@@ -111,4 +111,4 @@ API disponible sur : http://localhost:8000/docs
 
 ### 📜 Licence
 
-Licence MIT
+Lire LICENSE.md
