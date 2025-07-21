@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+venv/
+env/
+*.sqlite3
+
+# FastAPI/uvicorn logs
+*.log
+
+# Node/React frontend
+frontend/node_modules/
+frontend/build/
+frontend/.env
+
+# Docker
+*.pid
+*.db
+deploy/.env
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# PostgreSQL dumps
+db/*.sql
+
+# Misc
+*.swp
+*.bak
