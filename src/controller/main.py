@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from routers.devices import router as devices_router
+from routers.devices import router as devices_endpoint
 
 
 app = FastAPI(
@@ -8,8 +8,4 @@ app = FastAPI(
     version="0.1.0"
 )
 
-@app.get("/")
-def read_root():
-    return {"message": "Welcome to MikroSDN API"}
-
-app.include_router(devices_router)
+app.include_router(devices_endpoint)
